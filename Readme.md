@@ -37,6 +37,8 @@ Steps Leaderboard : https://steps.leaderboard.dria.co/
 Want to support me for creating another node setup ?
 **star** my repo or buy me a coffee on
 
-EVM : `0x1f0ea6e0b3590e1ab6c12ea0a24d3d0d9bf7707d`
+EVM : `0xa7816292d470BC4e4426a5FAdA71A42C0f370C53`
 
-SOLANA : `3tE3Hs7P2wuRyVxyMD7JSf8JTAmEekdNsQWqAnayE1CN`
+SOLANA : `95m5zAspEMNy5Dhc6hGCuUKygP8e7kLLC6dz23cJ13nk`
+
+## THANKS YOU
